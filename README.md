@@ -142,5 +142,4 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   <br/><br/>
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=s8ulsaMy&icon=10&color=7aa2f7&style=flat-square" alt="Profile Views" /></a>
 </div>
