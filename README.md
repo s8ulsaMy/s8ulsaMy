@@ -22,7 +22,7 @@ Email Me 👉 ✉️ **managesam12@gmail.com** For Collaboration/Projects or Any
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Integration+Enthusiast;Java+%26+DSA+Learner](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Integration+Enthusiast;Java+%26+DSA+Learner)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Integration+Enthusiast;Java+and+DSA+Learner" alt="Typing SVG" />
 </div>
 
 <!-- Contribution Snake Animation -->
